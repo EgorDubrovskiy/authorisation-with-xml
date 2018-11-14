@@ -1,0 +1,17 @@
+.authInfoContainer{
+    float: right;
+    margin-right: 0.5rem;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 400;
+    color: #007bff;
+    background-color: transparent;
+}
+
+a:hover {
+    color: #0056b3;
+    background-color: transparent;
+    border-color: transparent;
+}
